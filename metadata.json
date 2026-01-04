@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Lucifer",
+    "id": "YourDiscordIDHere"  // Like, find this in Discord settings > My Account > Copy User ID
+  },
+  "service": "Bondage Club",
+  "description": {
+    "en": "Shows your room and if you're all tied up in Bondage Club! Teehee!"
+  },
+  "url": "bondageprojects.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/your-logo-here.png",  // Upload a BC pic to imgur.com and paste the link!
+  "thumbnail": "https://i.imgur.com/your-thumbnail-here.png",  // Another fun pic
+  "color": "#FF69B4",  // Hot pink, obvs!
+  "tags": ["bondage", "game", "fun"],
+  "category": "games"
+}
