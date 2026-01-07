@@ -1,17 +1,28 @@
 {
+  "$schema": "https://schemas.premid.app/metadata/1.10",
   "author": {
-    "name": "Lucifer",
-    "id": "YourDiscordIDHere"  // Like, find this in Discord settings > My Account > Copy User ID
+    "id": "YOUR_DISCORD_USER_ID_IF_YOU_WANT",
+    "name": "Khile"
   },
+  "contributors": [],
   "service": "Bondage Club",
+  "altnames": [],
   "description": {
-    "en": "Shows your room and if you're all tied up in Bondage Club! Teehee!"
+    "en": "Rich Presence for the adult bondage roleplay game Bondage Club."
   },
-  "url": "bondageprojects.com",
+  "url": [
+    "bondageprojects.elementfx.com",
+    "bondage-europe.com",
+    "bc.garden"
+  ],
   "version": "1.0.0",
-  "logo": "https://i.imgur.com/your-logo-here.png",  // Upload a BC pic to imgur.com and paste the link!
-  "thumbnail": "https://i.imgur.com/your-thumbnail-here.png",  // Another fun pic
-  "color": "#FF69B4",  // Hot pink, obvs!
-  "tags": ["bondage", "game", "fun"],
-  "category": "games"
+  "logo": "https://i.imgur.com/YOUR_LOGO_ASSET_URL_IF_HOSTED_ELSEWHERE_OR_LEAVE_BLANK",
+  "thumbnail": "https://i.imgur.com/YOUR_THUMBNAIL_URL",
+  "color": "#FF69B4",
+  "category": "games",
+  "tags": ["bdsm", "roleplay", "game"],
+  "iframe": false,
+  "iFrameRegExp": null,
+  "regExp": null,
+  "settings": []
 }
